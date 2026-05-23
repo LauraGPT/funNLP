@@ -644,6 +644,7 @@
 
 
 # 语音处理
+|    FunASR    |    阿里通义实验室开源的工业级语音识别工具包，支持50+语言、说话人分离、情感检测，GPU上170倍实时    |   [github](https://github.com/modelscope/FunASR)  |
 
 | 资源名（Name）      | 描述（Description） | 链接     |
 | :---        |    :---  |          :--- |
