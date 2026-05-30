@@ -644,10 +644,12 @@
 
 
 # 语音处理
-|    FunASR    |    阿里通义实验室开源的工业级语音识别工具包，支持50+语言、说话人分离、情感检测，GPU上170倍实时    |   [github](https://github.com/modelscope/FunASR)  |
 
 | 资源名（Name）      | 描述（Description） | 链接     |
 | :---        |    :---  |          :--- |
+|    FunASR    |    工业级语音识别工具包，支持50+语言、语音活动检测、标点恢复、说话人分离、情感检测，GPU上170倍实时速度，提供OpenAI兼容API    |   [github](https://github.com/modelscope/FunASR)  |
+|    SenseVoice    |    超快速非自回归语音识别模型，170倍实时速度，支持50+语种，内置情感和音频事件检测，234M参数    |   [github](https://github.com/FunAudioLLM/SenseVoice)  |
+|    FunClip    |    基于语音识别的智能视频剪辑工具，自动生成字幕，支持按关键词/说话人剪辑视频片段    |   [github](https://github.com/modelscope/FunClip)  |
 |    ASR 语音数据集 + 基于深度学习的中文语音识别系统    |        |    [github](https://github.com/nl8590687/ASRT_SpeechRecognition)  |
 |   清华大学THCHS30中文语音数据集    |        |  [data_thchs30tgz-OpenSLR国内镜像](<http//cn-mirroropenslrorg/resources/18/data_thchs30tgz>)<br>[data_thchs30tgz](<http//wwwopenslrorg/resources/18/data_thchs30tgz>) <br>[test-noisetgz-OpenSLR国内镜像](<http//cn-mirroropenslrorg/resources/18/test-noisetgz>)[test-noisetgz](<http//wwwopenslrorg/resources/18/test-noisetgz>) <br>[resourcetgz-OpenSLR国内镜像](<http//cn-mirroropenslrorg/resources/18/resourcetgz>)<br>[resourcetgz](<http//wwwopenslrorg/resources/18/resourcetgz>)<br>[Free ST Chinese Mandarin Corpus](<http//cn-mirroropenslrorg/resources/38/ST-CMDS-20170001_1-OStargz>)<br>[Free ST Chinese Mandarin Corpus](<http//wwwopenslrorg/resources/38/ST-CMDS-20170001_1-OStargz>)<br>[AIShell-1 开源版数据集-OpenSLR国内镜像](<http//cn-mirroropenslrorg/resources/33/data_aishelltgz>)<br>[AIShell-1 开源版数据集](<http//wwwopenslrorg/resources/33/data_aishelltgz>)<br>[Primewords Chinese Corpus Set 1-OpenSLR国内镜像](<http//cn-mirroropenslrorg/resources/47/primewords_md_2018_set1targz>)<br>[Primewords Chinese Corpus Set 1](<http//wwwopenslrorg/resources/47/primewords_md_2018_set1targz>) |
 |    笑声检测器    |        |    [github](https://github.com/ideo/LaughDetection)  |
