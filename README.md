@@ -653,6 +653,7 @@
 |    Common Voice语音识别数据集新版    |  包括来自42,000名贡献者超过1,400小时的语音样本，涵github     |   [link](https://voice.mozilla.org/en/datasets)     |
 |    FunASR    | 开源语音识别工具包，覆盖离线/流式识别、VAD、标点、说话人分离与服务部署 | [github](https://github.com/modelscope/FunASR) |
 |    SenseVoice    | 多语言语音理解模型，覆盖 ASR、语言识别、情感与音频事件检测 | [github](https://github.com/QwenAudio/SenseVoice) |
+|    FunClip    |    基于FunASR的本地视频剪辑工具，可按文本片段或说话人选取内容，生成视频片段与SRT字幕，并支持LLM辅助剪辑    |   [github](https://github.com/modelscope/FunClip)  |
 |    speech-aligner    |  从“人声语音”及其“语言文本”，产生音素级别时间对齐标注的工具       |   [github](https://github.com/open-speech/speech-aligner)  |
 |   ASR语音大辞典/词典     |        |   [github](hhttps://github.com/aishell-foundation/DaCiDian)  |
 |     语音情感分析   |        |   [github](https://github.com/MITESHPUTHRANNEU/Speech-Emotion-Analyzer)  |
